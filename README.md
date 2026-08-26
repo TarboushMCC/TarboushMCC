@@ -75,13 +75,13 @@ I build web products end to end — from internal tools and automation pipelines
 
 ---
 
-### Contribution Snake
+### Activity Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TarboushMCC/TarboushMCC/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TarboushMCC/TarboushMCC/output/github-contribution-grid-snake.svg" />
-    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/TarboushMCC/TarboushMCC/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-hazel.vercel.app/graph?username=TarboushMCC&theme=github-compact&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-hazel.vercel.app/graph?username=TarboushMCC&theme=minimal&hide_border=true" />
+    <img alt="TarboushMCC's GitHub contribution activity over the last year" src="https://github-readme-activity-graph-hazel.vercel.app/graph?username=TarboushMCC&theme=minimal&hide_border=true" />
   </picture>
 </p>
 
